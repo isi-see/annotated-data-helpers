@@ -17,9 +17,9 @@ These functions expect the labeled datasets in *CSV format*.
 Different *dummy datasets* are provided to showcase the expected input and output for different formats (**radio buttons** vs **checkboxes**).
 
 On common data labeling platforms, annotators give their judgments in the following format:
-![Example UI for Radio buttons](radio_buttons_UI_example.jpeg)
+![Example UI for Radio buttons](radio_buttons_UI_example.jpg)
 
-![Example UI for Checkboxes](checkboxes_UI_example.jpeg)
+![Example UI for Checkboxes](checkboxes_UI_example.jpg)
 
 In order to work with output from common data labeling platforms, unless stated
 otherwise the functions take a single string that contains all given judgments (e.g. "label1/label2/label3").
