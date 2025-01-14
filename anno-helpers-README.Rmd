@@ -11,6 +11,7 @@ options(width=100)
 library(tidyverse)
 library(dplyr)
 library(janitor)
+library(rmarkdown)
 ```
 
 ## Overview
